@@ -14,24 +14,17 @@ S2 ={A1,A2, ...,An } → S3 ={c1, c2, ..., cn }
 # **Input**
 The input contains multiple test cases. The first line of the input is a number T (1 ≤ T ≤ 100), indicating the number of test cases. Each test case contains two integers n (2 ≤ n ≤ 5,000,000) and Q (2 ≤ Q ≤ 1000,000,000) in one line.
 
-4
-
-5 100
-
-5 3
-
-15 13
-
-5000000 1000000000
+    4
+    5 100
+    5 3
+    15 13
+    5000000 1000000000
 
 
 # **Output**
 For each test case, print the weighted sum in a separate line.
 
-46
-
-2
-
-11
-
-973061125
+    46
+    2
+    11
+    973061125
